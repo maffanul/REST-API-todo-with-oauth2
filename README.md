@@ -28,8 +28,9 @@ To run this repo, please follow these command :
     ![Body Tab](image/get_token_body.png "Body Tab")
 
 4. Accessing without Token
-   curl --location --request GET 'http://localhost:8081/notes/list'<br />
-    ![Accessing without Token](image/noauth.png "Accessing without Token")
+   curl --location --request GET 'http://localhost:8081/notes/list' <br />
+   
+    ![Accessing without Token](image/no_auth.png "Accessing without Token")
 
 5. Accessing Resource With Token
 
