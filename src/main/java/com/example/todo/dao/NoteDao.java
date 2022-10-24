@@ -7,4 +7,5 @@ import com.example.todo.model.Note;
 public interface NoteDao extends CrudRepository<Note, Long>{
 
 //coba 
+//coba kedua kalinya
 }
